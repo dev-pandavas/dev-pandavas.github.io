@@ -6,6 +6,8 @@ PATH = "content"
 
 TIMEZONE = 'Asia/Seoul'
 
+OUTPUT_PATH = 'docs/'
+
 DEFAULT_LANG = 'kr'
 
 # Feed generation is usually not desired when developing
